@@ -139,10 +139,6 @@
                 <div class="heart heart4">💘</div>
             </div>
             <img src="https://i.imgur.com/83DrJXA.jpg" alt="About Image 2" class="image">
-        </div>
-
-        <!-- Added link to Princessbestgirlever.com -->
-        <a href="https://princessbestgirlever.com">Princessbestgirlever.com</a>
-    </div>
+        </div>  
 </body>
 </html>
